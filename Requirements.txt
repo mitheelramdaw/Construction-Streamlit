@@ -1,2 +1,2 @@
-Start streamlit app
-"python -m streamlit run app.py"
+# requirements.txt
+supabase==3.11.5
